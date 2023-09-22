@@ -1,0 +1,108 @@
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.AssemblyReference.cache
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.SuggestedBindingRedirects.cache
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.BaoCao.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.DangNhap.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frmChinhSuaThucDon.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frmChonThucDon.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Properties.Resources.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLBH.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.GenerateResource.cache
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.CoreCompileInputs.cache
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.exe.config
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.exe
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.pdb
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.exe
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.pdb
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.FormPhieuNhap.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.FormPhieuXuat.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_Ca.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_LichLam.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLMenu.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLKho.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLBHKH.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.BAN.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.KHACHHANG.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.KHUVUC.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.NHANVIEN.resources
+D:\BaoCaoDotNet\QuanLyCaPhe\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_TinhLuong.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.exe.config
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.exe
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.pdb
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.AssemblyReference.cache
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.BAN.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.BaoCao.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.DangNhap.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_Ca.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_LichLam.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_TinhLuong.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frmChinhSuaThucDon.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frmChonThucDon.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.KHACHHANG.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.KHUVUC.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.NHANVIEN.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.FormPhieuNhap.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.FormPhieuXuat.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Properties.Resources.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLBH.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLBHKH.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLKho.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLMenu.resources
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.GenerateResource.cache
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.CoreCompileInputs.cache
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.exe
+C:\HK5\CongNghe .NET\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.pdb
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.BAN.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.BaoBieuDoanhThu.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.BaoCao.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frm_DangKy.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frm_dangNhap.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_Ca.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_LichLam.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_TinhLuong.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frmChinhSuaThucDon.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frmChonThucDon.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.KHACHHANG.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.KHUVUC.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.NHANVIEN.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.FormPhieuNhap.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.FormPhieuXuat.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Properties.Resources.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLBH.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLBHKH.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLKho.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLMenu.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.GenerateResource.cache
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.CoreCompileInputs.cache
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.exe.config
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.exe
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.pdb
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.exe
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\COFFEE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.pdb
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.exe.config
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.exe
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\bin\Debug\QuanLyCaPhe.pdb
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.AssemblyReference.cache
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.BAN.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.BaoBieuDoanhThu.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.BaoCao.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frm_DangKy.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frm_dangNhap.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_Ca.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_LichLam.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Form_TinhLuong.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frmChinhSuaThucDon.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.frmChonThucDon.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.KHACHHANG.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.KHUVUC.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.NHANVIEN.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.FormPhieuNhap.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.FormPhieuXuat.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.Properties.Resources.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLBH.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLBHKH.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLKho.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.QLMenu.resources
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.GenerateResource.cache
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.csproj.CoreCompileInputs.cache
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.exe
+D:\Documents\Huyền Trân\HK5\CÔNG NGHỆ .NET\ĐỒ ÁN QUẢN LÝ QUÁN CÀ PHÊ\NHOM06\QUANLYQUANCAPHE\QuanLyCaPhe\obj\Debug\QuanLyCaPhe.pdb
